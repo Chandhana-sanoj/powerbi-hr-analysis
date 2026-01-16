@@ -27,13 +27,20 @@ This project addresses these gaps by providing a single, consolidated Power BI d
 
 ---
 
-## Key KPIs
-- **Presence %**
-- **WFH %**
-- **SL %**
+## Key Metrics
+| Metric | Description |
+|--------|-------------|
+| **Presence %** | Percentage of days employees were present |
+| **WFH %** | Percentage of days employees worked from home |
+| **SL %** | Percentage of days employees took sick leave |
 
-All KPIs dynamically update based on selected time periods.
+---
 
+## Tools & Techniques
+- **Power BI Desktop**
+- **Power Query** – for data cleaning
+- **DAX** – for KPI calculations
+- **Excel** – source data
 ---
 
 ## Key Insights
